@@ -1,0 +1,13 @@
+1. Download the package from github, from dev branch
+   https://github.com/amartimes/capstone2016 
+
+2. Database mysql dump is included within database folder
+
+3. example, configuration file .env is included within readme folder
+
+4. Need to place configured .env file within the main folder  
+
+5. run -composer update, from the command line to download required packages
+
+6. example .htaccess file is included within readme folder, please use the code snippet to handle redirection 
+   www.example.com/public/ --> www.example.com 
